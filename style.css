@@ -1,0 +1,33 @@
+.header{
+    background-image: url("./img/header-bg.png");
+    padding-bottom:240px;
+}
+.btn-default {
+    background-color: #ff1f84;
+    font-weight: 600;
+}
+.middle{
+    background-image: url("./img/biography-bg.png");
+}
+.portfolio{
+    background-image: url('./img/latest-work-bg.png');
+    background-position:top;
+    padding-bottom:150px;
+}
+
+footer{
+    background-image: url('./img/footer-bg.png');
+}
+
+.box{
+    padding:38px 0px;
+    background-image: linear-gradient(to right, #ff52bd , #ff0fa4);
+    max-width: 600px;
+    border-radius: 10px;
+    margin:60px auto;
+    color:white;
+}
+
+.copyright{
+    margin:100px 0px;
+}
