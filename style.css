@@ -1,11 +1,18 @@
 .header{
     background-image: url("./img/header-bg.png");
-    padding-bottom:240px;
+    padding-bottom:40px;
 }
 .btn-default {
     background-color: #ff1f84;
     font-weight: 600;
 }
+
+
+.btn-download {
+    background-color: #fb743e;
+    font-weight: 600;
+}
+
 .middle{
     background-image: url("./img/biography-bg.png");
 }
@@ -21,13 +28,23 @@ footer{
 
 .box{
     padding:38px 0px;
-    background-image: linear-gradient(to right, #ff52bd , #ff0fa4);
-    max-width: 600px;
+    background-image: linear-gradient(to right, #60ceec , #1687a7);
+    width: 90%;
+    max-width: 500px;
     border-radius: 10px;
     margin:60px auto;
     color:white;
 }
 
 .copyright{
-    margin:100px 0px;
+    margin:30px 0px 10px 0px;
+}
+
+
+.container{
+    border: 0px solid rgb(128, 29, 29);
+    width:90% !important;
+    max-width: 900px !important;
+    font-weight: 500;
+    margin: 0px auto;
 }
