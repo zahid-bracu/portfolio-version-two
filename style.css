@@ -1,3 +1,5 @@
+ 
+
 .header{
     background-image: url("./img/header-bg.png");
     padding-bottom:40px;
@@ -47,4 +49,8 @@ footer{
     max-width: 900px !important;
     font-weight: 500;
     margin: 0px auto;
+}
+
+.mail{
+    font-size: 120%;
 }
