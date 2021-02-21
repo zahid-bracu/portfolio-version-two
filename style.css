@@ -1,4 +1,6 @@
- 
+html{
+    font-size: 62.3% !important;
+} 
 
 .header{
     background-image: url("./img/header-bg.png");
@@ -54,3 +56,5 @@ footer{
 .mail{
     font-size: 120%;
 }
+
+
